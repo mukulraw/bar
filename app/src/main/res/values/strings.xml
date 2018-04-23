@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bar</string>
+    <string name="system">System</string>
+    <string name="card">Card</string>
+    <string name="form">Customer Form</string>
+    <string name="attention">Attention</string>
+
+</resources>
